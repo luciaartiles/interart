@@ -6,7 +6,7 @@ Muestra de trabajos del espacio digital interactivo
 
 - TANIA ÁLVAREZ NUÑEZ :clapper: :+1: [Dossier Artístico](https://taniaalvarez.github.io)
 - ARIADNA MARGARITA ARMAS FRAGIEL :clapper: :+1: [Portfolio](https://ariaadna.github.io/Portfolio.html)
-- LUCIA ARTILES DE URIOSTE
+- LUCIA ARTILES DE URIOSTE https://luciaartiles.github.io/
 - SANDRA BRAVO GARCIA 
 - MARIA DEL PILAR CANATA FERNANDEZ
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) ¿?
